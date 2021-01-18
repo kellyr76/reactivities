@@ -1,6 +1,4 @@
-﻿using System;
-
-// Note: 'Code First' - we create code and from that we create scripts that create the db.
+﻿// Note: 'Code First' - we create code and from that we create scripts that create the db.
 namespace Domain
 {
     public class Value
